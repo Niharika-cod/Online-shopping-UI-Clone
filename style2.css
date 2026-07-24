@@ -627,7 +627,7 @@ body{
 
 /* navbar */
 @media (max-width:1400px) {
-         .hero-section{
+        .hero-section{
         position: absolute;
         top: 0px;
         height: auto;
