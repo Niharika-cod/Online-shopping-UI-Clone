@@ -75,7 +75,7 @@ body{
 .amazon-logo{
     height: 60px;
     width: 100%;
-    background-image: url("amazon_logo.jpeg");
+    background-image: url("Assets/amazon_logo.jpeg");
     background-size: cover;
     flex-shrink: 1.2;
 
@@ -167,7 +167,7 @@ body{
 .india-logo{
     height: 22px;
     width: 19px;
-    background-image: url("indialogo.png");
+    background-image: url("Assets/indialogo.png");
     background-size: cover;
 }
 .en{
@@ -276,7 +276,7 @@ body{
 .hero-pic{
     height: 550px;
     width: 100%;
-    background-image:linear-gradient(to bottom ,rgba(0,0,0,0)60%,#f5f6f5 100%), url("hero_section2.jpg");
+    background-image:linear-gradient(to bottom ,rgba(0,0,0,0)60%,#f5f6f5 100%), url("Assets/hero_section2.jpg");
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
@@ -287,19 +287,19 @@ body{
 }
 @keyframes changing-img {
     0%{
-        background-image: url("hero_section2.jpg") ;
+        background-image: url("Assets/hero_section2.jpg") ;
         
     }
     33%{
-        background-image: url("hero1.jpg");
+        background-image: url("Assets/hero1.jpg");
         
     }
     66%{
-        background-image: url("hero.jpg");
+        background-image: url("Assets/hero.jpg");
         
     }
     100%{
-        background-image: url("hero_section.jpg");
+        background-image: url("Assets/hero_section.jpg");
       
     }
     
@@ -490,7 +490,7 @@ body{
 .foot-amazon-logo{
     height: 60px;
     width: 100px;
-    background-image: url("amazon_logo.jpeg");
+    background-image: url("Assets/amazon_logo.jpeg");
     background-size: contain;
     background-repeat: no-repeat;
     
@@ -523,7 +523,7 @@ body{
 .us-logo{
     height: 20px;
     width: 20px;
-    background-image: url("united-states.png");
+    background-image: url("Assets/united-states.png");
     background-size: contain;
     background-repeat: no-repeat;
     border: none;
