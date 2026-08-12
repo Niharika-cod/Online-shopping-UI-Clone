@@ -14,4 +14,4 @@ This is a frontend clone of Amazon Homepage built using HTML & CSS.
 I Created this project before starting my first year of college to master core web developmens conepts from scratch without relying on any external frameworks. 
 # Author
 <b>Niharika Sharma</b><br>
-Incoming 1st year student @ Chitkara University | CSE - AI & ML | 
+CSE(AI and ML) Student @ Chitkara University 
