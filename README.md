@@ -1,5 +1,5 @@
-# Amazon Clone
-This is a frontend clone of Amazon Homepage built using HTML & CSS.
+#ShopNet Clone
+This is a frontend clone of ShopNet (Shopping website) Homepage built using HTML & CSS.
 # Key Features 
 1 Navigation & Header <br>
 2 Hero Banner<br>
