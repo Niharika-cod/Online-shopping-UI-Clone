@@ -1,4 +1,4 @@
-#ShopNet Clone
+# ShopNet Clone
 This is a frontend clone of ShopNet (Shopping website) Homepage built using HTML & CSS.
 # Key Features 
 1 Navigation & Header <br>
